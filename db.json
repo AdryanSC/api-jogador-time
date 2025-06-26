@@ -1,0 +1,10 @@
+{
+ "times": [
+   { "id": 1, "nome": "Palmeiras", "cidade": "São Paulo" },
+   { "id": 2, "nome": "Flamengo", "cidade": "Rio de Janeiro" }
+ ],
+ "jogadores": [
+   { "id": 1, "nome": "Gabigol", "posicao": "Atacante", "timeId": 2 },
+   { "id": 2, "nome": "Dudu", "posicao": "Meia", "timeId": 1 }
+ ]
+}

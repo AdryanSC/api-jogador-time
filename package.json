@@ -1,0 +1,11 @@
+{
+ "name": "api-jogador-time",
+ "version": "1.0.0",
+ "description": "API fake com JSON Server para projeto Flutter",
+ "scripts": {
+   "start": "json-server --watch db.json --port 3000"
+ },
+ "dependencies": {
+   "json-server": "^0.17.3"
+ }
+}
